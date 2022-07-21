@@ -1,0 +1,28 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch Testbranch
+# Your branch is up to date with 'Walkaholics-milestone1-frontend/Testbranch'.
+#
+# Changes to be committed:
+#	modified:   StackNavigator.js
+#	new file:   assets/img/TDEE.png
+#	modified:   babel.config.js
+#	new file:   screens/ReportPage.js
+#	new file:   screens/SettingsPage.js
+#	modified:   supabaseClient.js
+#
+# Changes not staged for commit:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   screens/Launch.js
+#	modified:   screens/MainPage.js
+#	modified:   screens/SignIn.js
+#	modified:   screens/Signup.js
+#	modified:   screens/Userdata.js
+#	modified:   screens/Usergoal.js
+#
+# Untracked files:
+#	screens/PlansPage.js
+'ReportPage update with speedometer'
